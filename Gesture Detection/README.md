@@ -40,4 +40,5 @@
 
 ## Output :
 
+![image](https://user-images.githubusercontent.com/38161827/196024547-52e622e6-3208-4d13-97d5-246c023551f8.png)
 
